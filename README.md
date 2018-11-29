@@ -1,2 +1,2 @@
 # serve
-ini adalah server
+ini adalah server 
